@@ -15,7 +15,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/kundankumar95/text-extraction-summarization.git
+git clone https://github.com/kundankumar95/Text-Extraction-and-Summarization.git
 Navigate to the project directory:
 bash
 Copy code
